@@ -8,4 +8,4 @@ Tickets app using React in the FE and Node, Express and Socket.IO in the BE
 
 ## Run App
 
-### `yarn start`
+### `yarn run dev`
